@@ -6,9 +6,7 @@
 ---
 
 🎱 <b>Languages</b>
--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
+- [![Go](https://skillicons.dev/icons?i=go)]
 
 
 ---
