@@ -13,7 +13,7 @@
 
 ### 📫 Contacts
 <p>
-  <a href="https://t.me/rarnen_tech">
+  <a href="https://t.me/FedorMme">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:yourmail@example.com">
