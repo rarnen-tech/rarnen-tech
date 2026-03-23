@@ -6,7 +6,7 @@
 ---
 
 🎱 <b>Languages</b>
-- [![Go](https://skillicons.dev/icons?i=go)]
+- ![Go](https://skillicons.dev/icons?i=go)
 
 
 ---
