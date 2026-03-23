@@ -2,6 +2,8 @@
 
 ## 🎙️ About me:
 - Go developer
+  
+---
 
 🎱 <b>Languages</b>
 - Go
