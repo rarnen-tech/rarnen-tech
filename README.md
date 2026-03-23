@@ -22,7 +22,7 @@
 </p>
 
 ## Hey 👋, This is Fedor Moschenko
-[![Gmail Badge](https://img.shields.io/badge/-rarnen@my.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rarnen@my.com)](mailto:rarnen@my.com) [![Github Badge](https://img.shields.io/badge/-rarnen-tech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rarnen-tech/)](https://www.github.com/rarnen-tech/) <p align='left'>always tech</p>
+[![Gmail Badge](https://img.shields.io/badge/-rarnen@my.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rarnen@my.com)](mailto:rarnen@my.com) [![Telegram Badge](https://img.shields.io/badge/-rarnen-tech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rarnen-tech/)](https://www.github.com/rarnen-tech/) <p align='left'>always tech</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rarnen-tech alt=rarnen-tech /> </p>
 
