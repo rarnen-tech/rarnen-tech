@@ -3,7 +3,7 @@
 ## 🎙️ About me:
 - Go developer
 
- Languages
+🎱 <b>Languages</b>
 - Go
 
 ---
