@@ -1,13 +1,14 @@
 # Hi, I'm Fedor (rarnen-tech) 🕹️
 
-### 🎙️ About me:
+## 🎙️ About me:
 - Go developer
 
-### Languages
+## Languages
 - Go
 
 ---
-# 📫 Contacts
+
+## 📫 Contacts
 <p>
   <a href="https://t.me/rarnen_tech">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
