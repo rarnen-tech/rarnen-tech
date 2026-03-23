@@ -6,7 +6,7 @@
 ---
 
 🎱 <b>Languages: </b>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarnen-tech&layout=compact)](https://github.com/rarnen-tech/github-readme-stats)
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarnen-tech&layout=compact)](https://github.com/rarnen-tech/github-readme-stats)</p>
 
 
 ---
