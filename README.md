@@ -1,17 +1,17 @@
 # Hi, I'm Fedor (rarnen-tech) 🕹️
 
-## 🎙️ About me:
+### 🎙️ About me:
 - Go developer
   
 ---
 
-🎱 <b>Languages: </b>  
+### 🎱 <b>Languages: </b>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarnen-tech&layout=compact)](https://github.com/rarnen-tech/github-readme-stats)
 
 
 ---
 
-## 📫 Contacts
+### 📫 Contacts
 <p>
   <a href="https://t.me/rarnen_tech">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
