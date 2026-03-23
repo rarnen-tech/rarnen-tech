@@ -1,11 +1,11 @@
 # Hi, I'm Fedor (rarnen-tech) 🕹️
 
-### 🎙️ About me:
+### 🎙️ About me
 - Go developer
   
 ---
 
-### 🎱 <b>Languages: </b>  
+### 🎱 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarnen-tech&layout=compact)](https://github.com/rarnen-tech/github-readme-stats)
 
 
