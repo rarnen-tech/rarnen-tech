@@ -1,9 +1,9 @@
 # Hi, I'm Fedor (rarnen-tech) 🕹️
 
-## 🎙️ About me:
+ 🎙️ About me:
 - Go developer
 
-## Languages
+ Languages
 - Go
 
 ---
