@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9oejZoeHQyZWEweDd0cXlwa29mYno2NW8wbTVlNTVhNGQ1YnJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
+
 # Hi, I'm Fedor (rarnen-tech) 🕹️
 
 ### 🎙️ About me
