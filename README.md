@@ -6,7 +6,7 @@
 ---
 
 ### 🎱 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarnen-tech&layout=compact)](https://github.com/rarnen-tech/github-readme-stats)   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9oejZoeHQyZWEweDd0cXlwa29mYno2NW8wbTVlNTVhNGQ1YnJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9oejZoeHQyZWEweDd0cXlwa29mYno2NW8wbTVlNTVhNGQ1YnJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
 
 
 ---
