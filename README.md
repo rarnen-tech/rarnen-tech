@@ -21,4 +21,4 @@
   </a>
 </p>
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rarnen-tech&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rarnen-tech&repo=rarnen-tech&countColorcountColor&countColor=%237B1E7B"/>
