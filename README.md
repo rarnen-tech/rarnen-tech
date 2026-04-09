@@ -6,7 +6,7 @@
 ---
 
 ### 🎱 Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rarnen-tech&theme=solarized_dark)   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9oejZoeHQyZWEweDd0cXlwa29mYno2NW8wbTVlNTVhNGQ1YnJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rarnen-tech&theme=solarized_dark)   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9oejZoeHQyZWEweDd0cXlwa29mYno2NW8wbTVlNTVhNGQ1YnJ3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="190"/>
 
 
 ---
